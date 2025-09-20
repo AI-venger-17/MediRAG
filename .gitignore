@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+medrag_env/
+data/merck_manual.pdf
+data/merck_vector_db/
+*.pdf
+.env

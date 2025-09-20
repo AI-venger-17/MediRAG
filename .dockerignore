@@ -1,0 +1,6 @@
+.gitignore
+.dockerignore
+README.md
+data/merck_manual.pdf
+data/merck_vector_db/
+.env

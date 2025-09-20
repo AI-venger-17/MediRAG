@@ -1,0 +1,12 @@
+python-dotenv==1.0.1
+langchain==0.3.3
+sentence-transformers==3.1.1
+faiss-cpu==1.9.0  # Switch to faiss-gpu if you have CUDA
+transformers==4.45.2
+accelerate==1.0.1
+langchain-community==0.3.2
+unstructured==0.16.0
+pypdf==5.0.1
+deep-translator==1.11.4
+fpdf==1.7.2
+groq==0.11.0
