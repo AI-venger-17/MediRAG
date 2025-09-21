@@ -11,7 +11,7 @@ class Config:
     CHUNK_SIZE = 1000
     CHUNK_OVERLAP = 200
     RETRIEVER_K = 5
-    GROQ_MODEL = "mixtral-8x7b-32768"  # Or "llama3-70b-8192"
+    GROQ_MODEL = "llama-3.1-8b-instant"
     MAX_TOKENS = 500
     TEMPERATURE = 0.7
     TOP_P = 0.9
