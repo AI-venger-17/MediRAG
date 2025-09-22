@@ -1,6 +1,6 @@
 import os
 from tqdm import tqdm
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from src.config import Config
 
